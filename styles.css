@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #E9BA88;
 }
 
 h1 {
@@ -77,4 +77,9 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+.ft {
+  font-size: 3rem;
+  color: red;
 }
